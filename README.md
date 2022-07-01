@@ -5,8 +5,7 @@
 - 🤔 I’m looking for help with commercial development opportunities as Python Intern or Junior with company.
 - 💬 Ask me about Python.
 - 📫 How to reach me: LinkedIn - hubert-rykala/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 🚀 About Me
 
