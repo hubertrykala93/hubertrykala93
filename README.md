@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Hubert Rykała.</h1>
-<h3 align="left">I am self-taught person with a lot of passions and rapidly developing, I love to learn new practices and technologies with Python. I absorb new knowledge very quickly and with huge enthusiasm. I have learnt very actively and regularly coding with Python since May 2021.</h3>
+<h3 align="left">I am self-taught person with a lot of passions and rapidly developing. I love to learn new practices and technologies related with Python. I absorb new knowledge very quickly and with huge enthusiasm. I have learnt very actively and regularly coding in Python since May 2021.</h3>
 
 - 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
 
-- 🌱 I’m currently learning **coding with Python, data analysis, machine learning algorithms and building web applications.**
+- 🌱 I’m currently learning **coding in Python, data analysis, machine learning algorithms and building web applications.**
 
 - 🤝 I’m looking for help with **commercial development opportunities as Python Intern or Junior at company located in Poland.**
 
