@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
 
-- 🌱 I’m currently learning **coding in Python, data analysis, machine learning algorithms and building web applications.**
+- 🌱 I’m currently learning **coding in Python, building web applications, data analysis and machine learning algorithms.**
 
-- 🤝 I’m looking for help with **commercial development opportunities as a Python Intern or a Junior at a company located in Poland.**
+- 🤝 I’m looking for help with **commercial development opportunities as a Python Intern, Junior Python Developer or a Junior Back-end Developer at a company located in Poland.**
 
 - 📫 How to reach me **hubert.rykala@gmail.com**
 
