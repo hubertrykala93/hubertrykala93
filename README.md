@@ -156,8 +156,8 @@ Contact me at...
 # 📈 Statistics
 
 <a href="https://github.com/hubertrykala93/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hubertrykala93">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hubertrykala93">
 </a>
 <a href="https://github.com/hubertrykala93/django_prestig">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hubertrykala93&layout=compact&langs_count=8&card_width=320&hide=javascript">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hubertrykala93&layout=compact&langs_count=8&card_width=320&hide=javascript">
 </a>
