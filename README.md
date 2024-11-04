@@ -54,6 +54,7 @@ Contact me at...
 </ul>
 
 <h3>Databases:</h3>
+
 <ul>
   <a target="_blank">
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -97,6 +98,7 @@ Contact me at...
 </ul>
 
 <h3>Front-end Technologies:</h3>
+
 <ul>
   <a target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -108,6 +110,7 @@ Contact me at...
 </ul>
 
 <h3>Artificial Intelligence:</h3>
+
 <ul>
   <a target="_blank">
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
@@ -119,6 +122,7 @@ Contact me at...
 </ul>
 
 <h3>Others:</h3>
+
 <ul>
   <a href="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
@@ -148,3 +152,7 @@ Contact me at...
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
   </a>
 </ul>
+
+# Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertrykala93&size_weight=0.5&count_weight=0.5&hide=javascript)
