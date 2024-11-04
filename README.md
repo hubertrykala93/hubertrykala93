@@ -14,7 +14,7 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 
 - 🤝 I’m looking for help with **commercial development opportunities as a Python Intern, Junior Python Developer or a Junior Backend Developer at a company located in Poland.**
 
-- 📫 You can contact me via email at **hubert.rykala@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/hubert-rykala93/).
+- 📫 You can contact me via email at **hubert.rykala@gmail.com** or through <a></a>[LinkedIn](https://www.linkedin.com/in/hubert-rykala93/)</a>.
 
 # 👨‍💻 Technologies
 
