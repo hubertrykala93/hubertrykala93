@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=F79A2D&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm++Hubert+Ryka%C5%82a+%E2%9C%8C%EF%B8%8F;Junior+Python+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 <p>
-I am proficient in the Python programming environment, with skills in technologies such as Django and Django Rest Framework, as evidenced by completed projects. I have solid skills in creating backend systems based on PostgreSQL, with a focus on query optimization and efficient database management to maximize performance. I am passionate about delivering clean and efficient code, enabling me to implement solutions that meet high-quality standards.
+I am **proficient in the Python** programming environment, with skills in technologies such as **Django** and **Django Rest Framework**, as evidenced by completed projects. I have **solid skills in creating backend systems based on PostgreSQL**, with a focus on query optimization and efficient database management to maximize performance. I am passionate about delivering clean and efficient code, enabling me to implement solutions that meet high-quality standards.
 </p>
 
 - 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
