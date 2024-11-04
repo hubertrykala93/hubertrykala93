@@ -12,7 +12,7 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 
 - ⌨️ I am currently working on a fully functional **Customer Relationship Management (CRM) project for a hair salon**.
 
-  <a target="_blank" href="https://github.com/hubertrykala93 tab=repositories">
+  <a target="_blank" href="https://github.com/hubertrykala93?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 
