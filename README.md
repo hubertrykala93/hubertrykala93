@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋 I'm Hubert Rykała.</h1>
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A2D&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm++Hubert+Ryka%C5%82a+%E2%9C%8C%EF%B8%8F;Junior+Python+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
+</h1>
 <h3 align="left">I am a self-taught, passionate, rapidly developing person. I love to learn new practices and technologies related with Python. I absorb new knowledge very quickly and with huge enthusiasm. I have learnt coding very actively and regularly in Python.</h3>
 
 - 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
