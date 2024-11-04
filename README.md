@@ -6,9 +6,11 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 </p>
 
 # 🤔 About
-- 🔭 I am currently developing my passions and skills in Python programming and working with frameworks like Django and Django Rest Framework.**
+- 🔭 I am currently developing my passions and skills in Python programming and working with frameworks like Django and DRF.
 
-- 🌱 I’m currently learning **coding in Python, building web applications and data analysis.**
+- 🌱 I am currently learning **PostgreSQL architecture as well as HTML and CSS**.
+
+- ⌨️ I am currently working on a fully functional **Customer Relationship Management (CRM) project for a hair salon**.
 
 - 🤝 I’m looking for help with **commercial development opportunities as a Python Intern, Junior Python Developer or a Junior Backend Developer at a company located in Poland.**
 
