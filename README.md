@@ -6,7 +6,7 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 </p>
 
 # 🤔 About
-- 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
+- 🔭 I am currently developing my passions and skills in Python programming and working with frameworks like Django and Django Rest Framework.**
 
 - 🌱 I’m currently learning **coding in Python, building web applications and data analysis.**
 
