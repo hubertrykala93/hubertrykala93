@@ -23,6 +23,9 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 Contact me at...
 
 <ul>
+  <a target="_blank" href="https://www.facebook.com/hubert.rykala/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
   <a target="_blank" href="mailto:hubert.rykala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
