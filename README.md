@@ -5,7 +5,7 @@
 I am <strong>proficient in the Python</strong> programming environment, with skills in technologies such as <strong>Django</strong> and <strong>Django Rest Framework</strong>, as evidenced by completed projects. I have <strong>solid skills in creating backend systems based on PostgreSQL</strong>, with a focus on query optimization and efficient database management to maximize performance. I am passionate about delivering clean and efficient code, enabling me to implement solutions that meet high-quality standards.
 </p>
 
-<h2># 🤔 About</h2>
+# <h2>🤔 About</h2>
 - 🔭 I am currently developing my passions and skills in Python programming and working with frameworks like Django and DRF.
 
 - 🌱 I am currently learning **PostgreSQL architecture as well as HTML and CSS**.
