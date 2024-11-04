@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋 I'm Hubert Rykała.</h1>
+<h1 align="left">Hi 👋 I'm Hubert Rykała.</h1>
 <h3 align="left">I am a self-taught, passionate, rapidly developing person. I love to learn new practices and technologies related with Python. I absorb new knowledge very quickly and with huge enthusiasm. I have learnt coding very actively and regularly in Python.</h3>
 
 - 🔭 I’m currently working on **developing passions and skills in programming in Python language.**
