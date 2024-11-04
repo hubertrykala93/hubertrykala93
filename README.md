@@ -12,6 +12,10 @@ I am <strong>proficient in the Python</strong> programming environment, with ski
 
 - ⌨️ I am currently working on a fully functional **Customer Relationship Management (CRM) project for a hair salon**.
 
+  <a target="_blank" href="https://github.com/hubertrykala93 tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+
 - 🤝 I’m looking for help with **commercial development opportunities as a Python Intern, Junior Python Developer or a Junior Backend Developer at a company located in Poland.**
 
 # 📲 Contact
