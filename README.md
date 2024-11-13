@@ -91,10 +91,6 @@ Contact me at...
   <a target="_blank">
     <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
   </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
 </ul>
 
 <h3>Front-end Technologies:</h3>
