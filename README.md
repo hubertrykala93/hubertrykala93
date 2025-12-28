@@ -75,15 +75,23 @@ Contact me at...
 
 </ul>
 
-<h3>Programming Languages:</h3>
+<h3>State Management & RxJS:</h3>
 
 <ul>
   <a target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
   </a>
-  
+
   <a target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img src="https://img.shields.io/badge/NgRx%20Store-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Signal%20Store-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Angular%20Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </a>
 </ul>
 
