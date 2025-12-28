@@ -95,6 +95,18 @@ Contact me at...
   </a>
 </ul>
 
+<h3>Tests:</h3>
+
+<ul>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Karma-8A4182?style=for-the-badge&logo=karma&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white">
+  </a>
+</ul>
+
 <h3>Backend:</h3>
 
 <ul>
