@@ -123,7 +123,7 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Artificial Intelligence:</h3>
+<h3>AI:</h3>
 
 <ul>
   <a target="_blank">
