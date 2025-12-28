@@ -7,7 +7,7 @@ In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signal
 </p>
 
 # 🤔 About
-- 🔭 I am currently developing my passions and skills in Python programming and working with frameworks like Django and DRF.
+- 🔭 I am a Frontend Developer specializing in Angular, focused on building scalable and maintainable single-page applications.
 
 - 🌱 I am currently learning **PostgreSQL architecture as well as HTML and CSS**.
 
