@@ -2,7 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=F79A2D&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm++Hubert+Ryka%C5%82a+%E2%9C%8C%EF%B8%8F;Frontend+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 <p>
-I am <strong>proficient in the Python</strong> programming environment, with skills in technologies such as <strong>Django</strong> and <strong>Django Rest Framework</strong>, as evidenced by completed projects. I have <strong>solid skills in creating backend systems based on PostgreSQL</strong>, with a focus on query optimization and efficient database management to maximize performance. I am passionate about delivering clean and efficient code, enabling me to implement solutions that meet high-quality standards.
+<strong>Frontend Developer with over 1 year of experience</strong> working with <strong>Angular and TypeScript</strong>. I specialize in building responsive user interfaces with a strong focus on performance, <strong>consistent UX</strong>, and end-user needs.
+In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signals, including Signal Store</strong>, to efficiently manage application state and deliver stable, project-compliant functionalities.
 </p>
 
 # 🤔 About
