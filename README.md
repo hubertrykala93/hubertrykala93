@@ -126,9 +126,9 @@ Contact me at...
 <h3>Integration:</h3>
 
 <ul>
-  <a target="_blank">
+  <li>
     <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
-  </a>
+  </li>
 </ul>
 
 <h3>Tools:</h3>
