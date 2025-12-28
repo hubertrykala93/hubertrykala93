@@ -107,6 +107,22 @@ Contact me at...
   </a>
 </ul>
 
+<h3>Architecture & Tools:</h3>
+
+<ul>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+</ul>
+
 <h3>Backend:</h3>
 
 <ul>
