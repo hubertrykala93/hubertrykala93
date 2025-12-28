@@ -75,7 +75,7 @@ Contact me at...
 
 </ul>
 
-<h3>State Management & RxJS:</h3>
+<h3>State & Reactivity:</h3>
 
 <ul>
   <a target="_blank">
@@ -95,7 +95,7 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Tests:</h3>
+<h3>Testing:</h3>
 
 <ul>
   <a target="_blank">
@@ -107,7 +107,7 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Architecture & Tools:</h3>
+<h3>Architecture & Workflow:</h3>
 
 <ul>
   <a target="_blank">
@@ -123,7 +123,7 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Integration & Communication:</h3>
+<h3>Integration:</h3>
 
 <ul>
   <a target="_blank">
@@ -131,7 +131,7 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Others:</h3>
+<h3>Tools:</h3>
 
 <ul>
   <a href="_blank">
