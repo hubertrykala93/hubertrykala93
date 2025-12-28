@@ -56,51 +56,27 @@ Contact me at...
 
 <h3>State & Reactivity:</h3>
 
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/NgRx%20Store-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Signal%20Store-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Angular%20Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
+  <img src="https://img.shields.io/badge/NgRx%20Store-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white">
+  <img src="https://img.shields.io/badge/Signal%20Store-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular%20Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</p>
 
 <h3>Testing:</h3>
 
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Karma-8A4182?style=for-the-badge&logo=karma&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white">
-  </a>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Karma-8A4182?style=for-the-badge&logo=karma&logoColor=white">
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white">
+</p>
 
 <h3>Architecture & Workflow:</h3>
 
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-  </a>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</p>
 
 <h3>Integration:</h3>
 
@@ -110,40 +86,18 @@ Contact me at...
 
 <h3>Tools:</h3>
 
-<ul>
-  <a href="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
 <h3>Additional Skills:</h3>
 
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  </a>
-  
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  </a>
-  
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
