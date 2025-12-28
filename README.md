@@ -129,10 +129,6 @@ Contact me at...
   <a target="_blank">
     <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
   </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=http&logoColor=white">
-  </a>
 </ul>
 
 <h3>Others:</h3>
