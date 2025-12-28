@@ -42,6 +42,18 @@ Contact me at...
 </ul>
 
 # 👨‍💻 Technologies
+<h3>Frontend:</h3>
+
+<ul>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+</ul>
+
 <h3>Programming Languages:</h3>
 
 <ul>
