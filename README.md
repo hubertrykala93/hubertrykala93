@@ -126,7 +126,7 @@ Contact me at...
 <h3>Integration:</h3>
 
 <ul>
-  <li>
+  <li style="list-style: none;">
     <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
   </li>
 </ul>
