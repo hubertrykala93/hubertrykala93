@@ -42,7 +42,7 @@ Contact me at...
 </ul>
 
 # 👨‍💻 Technologies
-<h3>Programming Languages</h3>:
+<h3>Programming Languages:</h3>
 
 <ul>
   <a target="_blank">
