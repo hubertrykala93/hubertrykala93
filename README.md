@@ -16,8 +16,10 @@ In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signal
   <a target="_blank" href="https://github.com/hubertrykala93?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
+  
+<br />
+<br />
 
-<br>
 ⌨️ I care about code quality, performance, and long-term maintainability, actively using best practices such as OnPush change detection, reactive state management and thoughtful component design.
 
 📬 Open to new frontend challenges and commercial projects.
