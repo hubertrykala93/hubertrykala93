@@ -7,11 +7,11 @@ In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signal
 </p>
 
 # 🤔 About
-- 🔭 I am a Frontend Developer specializing in Angular, focused on building scalable and maintainable single-page applications.
+- 🔭 I am a **Frontend Developer specializing in Angular**, focused on building scalable and maintainable single-page applications.
 
-- 🌱 I am currently learning **PostgreSQL architecture as well as HTML and CSS**.
+- 🌱 I work with **Angular, TypeScript, RxJS, NgRx and Angular Signals**, with strong attention to application architecture, performance optimization and clean separation of responsibilities.
 
-- ⌨️ I am currently working on a fully functional **Customer Relationship Management (CRM) project for a hair salon**.
+- ⌨️ I have experience working with **NX monorepo architectures, building reusable UI components with Angular Material and Ionic**, and integrating frontend applications with **REST APIs**.
 
   <a target="_blank" href="https://github.com/hubertrykala93?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
