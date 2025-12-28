@@ -123,43 +123,15 @@ Contact me at...
   </a>
 </ul>
 
-<h3>Backend:</h3>
+<h3>Integration & Communication:</h3>
 
 <ul>
   <a target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  </a>
-  
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  </a>
-  
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
-  </a>
-</ul>
-
-<h3>Databases:</h3>
-
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
   </a>
 
   <a target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-</ul>
-
-<h3>AI:</h3>
-
-<ul>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  </a>
-
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=http&logoColor=white">
   </a>
 </ul>
 
@@ -196,5 +168,29 @@ Contact me at...
 
   <a target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+  </a>
+</ul>
+
+<h3>Additional Skills:</h3>
+
+<ul>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  </a>
+  
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  </a>
+  
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 </ul>
