@@ -7,17 +7,17 @@ In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signal
 </p>
 
 # 🤔 About
-- 🔭 I am a **Frontend Developer specializing in Angular**, focused on building scalable and maintainable single-page applications.
+🔭 I am a **Frontend Developer specializing in Angular**, focused on building scalable and maintainable single-page applications.
 
-- 🌱 I work with **Angular, TypeScript, RxJS, NgRx and Angular Signals**, with strong attention to application architecture, performance optimization and clean separation of responsibilities.
+🌱 I work with **Angular, TypeScript, RxJS, NgRx and Angular Signals**, with strong attention to application architecture, performance optimization and clean separation of responsibilities.
 
-- ⌨️ I have experience working with **NX monorepo architectures, building reusable UI components with Angular Material and Ionic**, and integrating frontend applications with **REST APIs**.
+⌨️ I have experience working with **NX monorepo architectures, building reusable UI components with Angular Material and Ionic**, and integrating frontend applications with **REST APIs**.
 
   <a target="_blank" href="https://github.com/hubertrykala93?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 
-- ⌨️ I care about code quality, performance, and long-term maintainability, actively using best practices such as OnPush change detection, reactive state management and thoughtful component design.
+⌨️ I care about code quality, performance, and long-term maintainability, actively using best practices such as OnPush change detection, reactive state management and thoughtful component design.
 
 📬 Open to new frontend challenges and commercial projects.
 
