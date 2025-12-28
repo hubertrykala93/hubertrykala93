@@ -148,12 +148,3 @@ Contact me at...
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
   </a>
 </ul>
-
-# 📈 Statistics
-
-<a href="https://github.com/hubertrykala93/django_prestig">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hubertrykala93">
-</a>
-<a href="https://github.com/hubertrykala93/django_prestig">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hubertrykala93&layout=compact&langs_count=8&card_width=320&hide=javascript">
-</a>
