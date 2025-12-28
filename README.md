@@ -18,6 +18,7 @@ In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signal
   </a>
   
 <br />
+<br />
 
 ⌨️ I care about code quality, performance, and long-term maintainability, actively using best practices such as OnPush change detection, reactive state management and thoughtful component design.
 
