@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=F79A2D&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm++Hubert+Ryka%C5%82a+%E2%9C%8C%EF%B8%8F;Frontend+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 <p>
-<strong>Frontend Developer with over 1 year of experience</strong> working with <strong>TypeScript and Angular</strong>. I specialize in building responsive user interfaces with a strong focus on performance, <strong>consistent UX</strong>, and end-user needs.
+<strong>Frontend Developer with over 2+ year of experience</strong> working with <strong>TypeScript and Angular</strong>. I specialize in building responsive user interfaces with a strong focus on performance, <strong>consistent UX</strong>, and end-user needs.
 In my day-to-day work, I use <strong>Ionic, RxJS, NgRx Store, and Angular Signals, including Signal Store</strong>, to efficiently manage application state and deliver stable, project-compliant functionalities.
 </p>
 
